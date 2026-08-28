@@ -1,4 +1,16 @@
 {
-  "categories": ["Nature", "Anime", "Minimal"],
-  "wallpapers": []
+  "categories": [
+    "Nature",
+    "Anime",
+    "Minimal"
+  ],
+  "wallpapers": [
+    {
+      "id": "1787945206172",
+      "title": "mahi",
+      "category": "Nature",
+      "imageUrl": "https://raw.githubusercontent.com/darkd-69/WALLCOW-DATABASE/5410b207bffc5ce0550c8d297821a34573d91ed4/wallpapers/mountain/mountain1.jpg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/darkd-69/WALLCOW-DATABASE/5410b207bffc5ce0550c8d297821a34573d91ed4/wallpapers/mountain/mountain1.jpg"
+    }
+  ]
 }
