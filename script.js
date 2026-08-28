@@ -60,10 +60,10 @@ function togglePassword() {
 
     if (passInput.type === 'password') {
         passInput.type = 'text';
-        toggleIcon.textContent = '🔒';
+        toggleIcon.innerHTML = '<i class="fas fa-eye-slash"></i>';
     } else {
         passInput.type = 'password';
-        toggleIcon.textContent = '👁️';
+        toggleIcon.innerHTML = '<i class="fas fa-eye"></i>';
     }
 }
 
