@@ -6,7 +6,7 @@ const GITHUB_CONFIG = {
 
 const ADMIN_USERS = [
     { username: 'Spider', password: 'Spider@69' },
-    { username: 'Photographer', password: 'Photo@2026' } // Your friend's credentials
+    { username: 'Mahi', password: 'Mahi@2026' } // Your friend's credentials
 ];
 
 let database = {
